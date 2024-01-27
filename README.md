@@ -1,5 +1,5 @@
 ### Привет!Меня зовут Феткулин Григорий
-![](https://komarev.com/ghpvc/?username=Fetkulingr)
+![](https://komarev.com/ghpvc/?username=fetgrigory)
 # Я начинающий программист
 Мне нравится писать код <br />
 Мне нравится гулять <br />
@@ -21,7 +21,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)<br />
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fetkulingr&hide=tsql&langs_count=7&theme=merko&layout=compact)
-![Fetkulingr GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fetkulingr&count_private=true&hide=contribs&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fetgrigory&hide=tsql&langs_count=7&theme=merko&layout=compact)
+![Fetkulingr GitHub Stats](https://github-readme-stats.vercel.app/api?username=fetgrigory&count_private=true&hide=contribs&show_icons=true&theme=merko)
 <br />
 <br />
