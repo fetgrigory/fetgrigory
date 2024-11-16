@@ -1,11 +1,12 @@
-### Привет!Меня зовут Феткулин Григорий
+### Hi! My name is Grigory Fetkulin
 ![](https://komarev.com/ghpvc/?username=fetgrigory)
-# Я python-разработчик
-Мне нравится писать код <br />
-Мне нравится гулять <br />
-Я постоянно учусь чему-то новому <br />
-Подхожу к любой задаче ответственно, делаю - качественно, уделяю внимание деталям
-### Языки и инструменты:
+# I'm a Python developer
+I enjoy writing code <br />
+I like to take walks <br />
+I am constantly learning new things <br />
+I approach any task responsibly, I do it qualitatively, I pay attention to details <br />
+
+# Languages and tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
