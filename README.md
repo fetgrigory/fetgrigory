@@ -1,12 +1,29 @@
-### Hi! My name is Grigory Fetkulin
-![](https://komarev.com/ghpvc/?username=fetgrigory)
-# I'm a Python developer
-I enjoy writing code <br />
-I like to take walks <br />
-I am constantly learning new things <br />
-I approach any task responsibly, I do it qualitatively, I pay attention to details <br />
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fetgrigory&hide=tsql&langs_count=7&theme=merko&layout=compact)
-![Fetkulingr GitHub Stats](https://github-readme-stats.vercel.app/api?username=fetgrigory&count_private=true&hide=contribs&show_icons=true&theme=merko)
-<br />
-<br />
+# 👋 Привет! Я Григорий Феткулин
+
+🧠 Python-разработчик, специализируюсь на автоматизации процессов, NLP и финтехе. Помогаю компаниям экономить время и ресурсы за счёт умных технических решений.
+
+---
+
+## 💼 Чем я занимаюсь
+
+- 📊 **Автоматизация**: сбор данных, интеграция API, устранение рутинных операций  
+  ▸ Реализовал парсер биржевых данных, который автоматизировал сбор 1900+ показателей и сэкономил аналитикам 50+ часов в месяц
+
+- 🤖 **Чат-боты и NLP**: голосовые ассистенты, автоматизация обработки заявок, анализ текстов  
+  ▸ Разработал Telegram-бота для аренды с оплатой, снизив нагрузку на менеджеров на 85%  
+  ▸ Собрал голосового ассистента с обработкой команд через LLM
+
+- 💳 **Финтех**: подключение платёжных систем (Сбер, PayMaster) через API с минимальными издержками
+
+---
+
+## 🛠️ Технологии
+
+**Python**, Selenium, Pandas, Aiogram, PostgreSQL, Vosk, OpenAI API, Hugging Face
+
+---
+
+## 📬 Контакты
+
+- Telegram: [@fetgrigory](https://t.me/fetgrigory)  
+- GitHub: [github.com/fetgrigory](https://github.com/fetgrigory)
