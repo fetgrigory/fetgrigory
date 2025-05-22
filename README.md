@@ -25,5 +25,4 @@
 
 ## 📬 Контакты
 
-- Telegram: [@fetgrigory](https://t.me/fetgrigory)  
-- GitHub: [github.com/fetgrigory](https://github.com/fetgrigory)
+[Email](mailto:Fetkulin.G.R@yandex.ru)
