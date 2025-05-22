@@ -24,9 +24,6 @@
 ---
 
 ## 📬 Контакты
-
-- Telegram: [@fetgrigory](https://t.me/fetgrigory)  
-- GitHub: [github.com/fetgrigory](https://github.com/fetgrigory)
-
+- Email: [Fetkulin.G.R@yandex.ru](mailto:Fetkulin.G.R@yandex.ru)
 ---
 ![Fetkulingr GitHub Stats](https://github-readme-stats.vercel.app/api?username=fetgrigory&count_private=true&hide=contribs&show_icons=true&theme=merko)
