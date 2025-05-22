@@ -19,7 +19,7 @@
 
 ## 🛠️ Технологии
 
-**Python**, Selenium, Pandas, Aiogram, PostgreSQL, Vosk, g4f, Hugging Face
+Selenium, Pandas, Aiogram, PostgreSQL, Vosk, g4f, Hugging Face
 
 ---
 
