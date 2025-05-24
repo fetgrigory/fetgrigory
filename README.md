@@ -33,6 +33,9 @@
 ---
 
 ## 📬 Контакты
-- Email: [Fetkulin.G.R@yandex.ru](mailto:Fetkulin.G.R@yandex.ru)
+<a href="mailto:Fetkulin.G.R@yandex.ru">
+    <img src="https://img.shields.io/badge/-Fetkulin.G.R@yandex.ru-FF0000?style=flat-square&logo=Yandex&logoColor=white" width="270" height="28"/>
+</a>
+
 ---
 ![Fetkulingr GitHub Stats](https://github-readme-stats.vercel.app/api?username=fetgrigory&count_private=true&hide=contribs&show_icons=true&theme=merko)
