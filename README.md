@@ -34,7 +34,7 @@
 
 ## 📬 Контакты
 <a href="mailto:Fetkulin.G.R@yandex.ru">
-    <img src="https://img.shields.io/badge/-Fetkulin.G.R@yandex.ru-FF0000?style=flat-square&logo=Yandex&logoColor=white" width="270" height="28"/>
+    <img src="https://img.shields.io/badge/-Fetkulin.G.R@yandex.ru-FF0000?style=for-the-badge&logo=Yandex&logoColor=white" alt="Yandex Mail"/>
 </a>
 
 ---
