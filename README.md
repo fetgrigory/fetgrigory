@@ -4,6 +4,8 @@
 - ⚙️ Изучаю искусственный интеллект и интеграции с LLM  
 - 💬 Открыт к интересным техническим проектам
 ---
+## 📬 Контакты
+- Email: [Fetkulin.G.R@yandex.ru](mailto:Fetkulin.G.R@yandex.ru)
 
 ## 🛠️ Технологии
 - 🐍 Python
@@ -16,10 +18,6 @@
 - 💾 PostgreSQL, SQLite
 - 🧮 Pandas, RapidFuzz
 - 🖥️ Pywin32
----
-
-## 📬 Контакты
-- Email: [Fetkulin.G.R@yandex.ru](mailto:Fetkulin.G.R@yandex.ru)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fetgrigory&hide=tsql&langs_count=7&theme=merko&layout=compact)
 ![Fetkulingr GitHub Stats](https://github-readme-stats.vercel.app/api?username=fetgrigory&count_private=true&hide=contribs&show_icons=true&theme=merko)
