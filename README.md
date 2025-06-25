@@ -18,19 +18,16 @@
 ---
 
 ## 🛠️ Технологии
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Aiogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Aiogram"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Vosk-FFD700?style=for-the-badge&logo=voice&logoColor=black" alt="Vosk"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/g4f-000000?style=for-the-badge&logo=OpenAI&logoColor=white" alt="g4f"/>
-</p>
-
-
+- 🐍 Python
+- 🔧 VS Code, DBeaver
+- 🔍 Selenium, Fake-useragent, Webdriver-manager, Request
+- 🤖 Aiogram
+- 🔊 Vosk, Sounddevice, Pyttsx3, Pygame
+- 🔡 HuggingFace, g4f
+- ⚙️ Git, Docker
+- 💾 PostgreSQL, SQLite
+- 🧮 Pandas, RapidFuzz
+- 🖥️ Pywin32
 ---
 
 ## 📬 Контакты
