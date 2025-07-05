@@ -7,6 +7,8 @@
 <a href="mailto:Fetkulin.G.R@yandex.ru">
     <img src="https://img.shields.io/badge/-Fetkulin.G.R%40yandex.ru-FF0000?style=flat&logo=Yandex&logoColor=white" width="120" height="25"/>
 </a>
+<a href="https://t.me/Fetkulin_97">
+    <img src="https://img.shields.io/badge/-@Fetkulin_97-1877F2?style=flat&logo=Telegram&logoColor=white" width="120" height="25"/>
 
 ## 🛠️ Технологии
 - 🐍 Python
