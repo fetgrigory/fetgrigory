@@ -4,7 +4,9 @@
 - ⚙️ Изучаю искусственный интеллект и интеграции с LLM  
 - 💬 Открыт к интересным техническим проектам
 ## 📬 Контакты
-- Email: [Fetkulin.G.R@yandex.ru](mailto:Fetkulin.G.R@yandex.ru)
+<a href="mailto:Fetkulin.G.R@yandex.ru">
+    <img src="https://img.shields.io/badge/-Fetkulin.G.R%40yandex.ru-FF0000?style=flat&logo=Yandex&logoColor=white" width="240" height="28"/>
+</a>
 
 ## 🛠️ Технологии
 - 🐍 Python
