@@ -17,3 +17,4 @@ Email: [Fetkulin.G.R@yandex.ru](mailto:Fetkulin.G.R@yandex.ru)
 - 🧮 Pandas, RapidFuzz
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fetgrigory&layout=compact&theme=radical)
+![fetgrigory's GitHub stats](https://github-readme-stats.vercel.app/api?username=fetgrigory&theme=dark&show_icons=true)
