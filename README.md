@@ -16,5 +16,5 @@ Email: [Fetkulin.G.R@yandex.ru](mailto:Fetkulin.G.R@yandex.ru)
 - 💾 PostgreSQL, SQLite
 - 🧮 Pandas, RapidFuzz
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fetgrigory&hide_progress=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fetgrigory&layout=compact)
 ![fetgrigory's GitHub stats](https://github-readme-stats.vercel.app/api?username=fetgrigory&show_icons=true&theme=default)
