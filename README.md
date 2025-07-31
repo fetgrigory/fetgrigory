@@ -10,7 +10,6 @@ Email: [Fetkulin.G.R@yandex.ru](mailto:Fetkulin.G.R@yandex.ru)
 - 🔧 VS Code, DBeaver
 - 🔍 Selenium, Fake-useragent, Webdriver-manager, Request
 - 🤖 Aiogram
-- 🔊 Vosk, Sounddevice, Pyttsx3, Pygame
 - 🔡 HuggingFace, g4f
 - ⚙️ Git, Docker
 - 💾 PostgreSQL, SQLite
