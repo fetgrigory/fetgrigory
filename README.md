@@ -18,7 +18,7 @@
 
 ## 🛠️ Стек технологий
 **Языки и фреймворки:** Python, Aiogram  
-**Инструменты разработки:** VS Code, Git, Docker, DBeaver  
+**Инструменты разработки:** VS Code, Git, DBeaver  
 **Базы данных:** PostgreSQL, SQLite  
 **Веб-скрапинг и автоматизация:** Selenium, Requests, Fake-useragent, Webdriver-manager  
 **ML/AI:** HuggingFace, g4f  
