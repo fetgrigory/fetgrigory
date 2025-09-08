@@ -23,7 +23,7 @@
 **Инструменты разработки:** VS Code, Git, DBeaver  
 **Базы данных:** PostgreSQL, SQLite  
 **Веб-скрапинг и автоматизация:** Selenium, Requests, Fake-useragent, Webdriver-manager  
-**ML/AI:** HuggingFace, g4f  
+**ML/AI:** HuggingFace, LM Studio, g4f  
 **Аналитика и обработка данных:** Pandas, RapidFuzz  
 
 ---
