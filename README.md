@@ -34,5 +34,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fetgrigory&layout=compact)
-![fetgrigory's GitHub stats](https://github-readme-stats.vercel.app/api?username=fetgrigory&show_icons=true&theme=default)
+<div id="stat">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fetgrigory&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fetgrigory&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fetgrigory&theme=github_dark"/>
+</div>
