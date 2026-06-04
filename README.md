@@ -19,12 +19,12 @@
 ---
 
 ## 🛠️ Стек технологий
-**Языки и фреймворки:** Python, Aiogram, FastAPI  
-**Инструменты разработки:** VS Code, Git, DBeaver  
-**Базы данных:** PostgreSQL 
-**Веб-скрапинг и автоматизация:** Selenium, Requests
-**ML/AI:** HuggingFace, LM Studio, Ollama  
-**Аналитика и обработка данных:** Pandas, RapidFuzz  
+**Языки и фреймворки:** Python, Aiogram, FastAPI <br />
+**Инструменты разработки:** VS Code, Git, DBeaver <br />
+**Базы данных:** PostgreSQL <br />
+**Веб-скрапинг и автоматизация:** Selenium, Requests <br />
+**ML/AI:** HuggingFace, LM Studio, Ollama <br />
+**Аналитика и обработка данных:** Pandas, RapidFuzz <br />
 
 ---
 
